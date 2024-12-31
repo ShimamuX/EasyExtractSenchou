@@ -15,18 +15,12 @@
 ## Usages
 - **Download and Run**: Download the [Latest Release](https://github.com/ShimamuX/EasyExtractSenchou/releases), extract it, and run it. simple.
 ---
-1. **Manual install: Clone the Repository**:
-   ```bash
-   git clone https://github.com/ShimamuX/EasyExtractSenchou.git
-   cd EasyExtractSenchou
-   ```
-2. **Make sure you extract your cookies.txt**:
-
+## How to bake a Cookies
 - **Download Extension**  
    Install the extension
    [Chrome Web Store](https://chromewebstore.google.com/detail/get-cookiestxt-locally/cclelndahbckbenkjhflpdbgdldlbecc),
    [Firefox Add-on](https://addons.mozilla.org/en-US/firefox/addon/get-cookies-txt-locally/)
-- **Enable Private Mode**  
+- **Enable Extension Private Mode**  
    Go to extension settings and enable **Private Mode**.
 - **Open Incognito Tab**  
    Press `Ctrl+Shift+N` to open an incognito tab and log in to your YouTube account.
@@ -34,11 +28,6 @@
    Click the extension icon and select **Export** to save your cookies.
 ---
  - Read this to learn [how to save cookies properly](https://github.com/yt-dlp/yt-dlp/wiki/Extractors)
----
-3. **How to run**:
-```bash
-   python main.py
-   ```
 ---
 
 ## Consider to Donate ❤️
