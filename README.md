@@ -1,4 +1,5 @@
 # EasyExtractSenchou
+![Program Gui](https://github.com/ShimamuX/EasyExtractSenchou/blob/main/guishot.png?raw=true)
 
 **EasyExtractSenchou** is a simple and user-friendly GUI built for `yt-dlp`, designed to streamline downloading, recording, and extracting m3u8 streams. It also features a stream countdown functionality for scheduled recordings or downloads.
 
