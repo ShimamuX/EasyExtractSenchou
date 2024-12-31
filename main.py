@@ -174,7 +174,7 @@ def start_waiting():
             checkbroadcast(url, save_path)
             return 
 
-        now = datetime.datetime.utcnow()  
+        now = datetime.datetime.now()  
         time_until_start = (start_time - now).total_seconds()
 
         if time_until_start <= 1:
