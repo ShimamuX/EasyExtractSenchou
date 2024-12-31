@@ -9,7 +9,7 @@
 - **Download Videos**: Easily download videos or record stream from youtube using `yt-dlp`.
 - **Cookies Support**: Download Hidden, Shared Private Video by using your account cookies.
 - **Record Streams**: Record live streams with precision and minimal effort.
-- **Extract m3u8 Streams**: Quickly extract and process m3u8 streams, while recording/downloading.
+- **Extract m3u8 Streams**: Quickly extract m3u8, while recording a live stream.
 - **Wait For Stream start**: Automatically set countdown timer to automatically record the stream once it started
 
 ## Usages
