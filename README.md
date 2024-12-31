@@ -12,15 +12,14 @@
 - **Extract m3u8 Streams**: Quickly extract and process m3u8 streams, while recording/downloading.
 - **Stream Countdown**: Set a countdown timer for streams to automatically record the stream once it started
 
+## Usages
+- **Download and Run**: Download the [Latest Release](https://github.com/ShimamuX/EasyExtractSenchou/releases), extract it, and run it. simple.
 ---
-
-## Installation
-1. **Clone the Repository**:
+1. **Manual install: Clone the Repository**:
    ```bash
    git clone https://github.com/ShimamuX/EasyExtractSenchou.git
    cd EasyExtractSenchou
    ```
----
 2. **Make sure you extract your cookies.txt**:
 
 - **Download Extension**  
