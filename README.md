@@ -1,7 +1,7 @@
 # EasyExtractSenchou
 ![Program Gui](https://github.com/ShimamuX/EasyExtractSenchou/blob/main/guishot.png?raw=true)
 
-**EasyExtractSenchou** is a simple and user-friendly GUI built for `yt-dlp`, designed to streamline downloading, recording, and extracting m3u8 streams. It also features a stream countdown functionality for automatic recordings.
+**EasyExtractSenchou** is a simple and user-friendly GUI built for `yt-dlp`, designed to streamline downloading, recording, and extracting m3u8 streams. It also features a countdown functionality for automatic recordings once the stream start.
 
 ---
 
@@ -10,7 +10,7 @@
 - **Cookies Support**: Download Hidden, Shared Private Video by using your account cookies.
 - **Record Streams**: Record live streams with precision and minimal effort.
 - **Extract m3u8 Streams**: Quickly extract and process m3u8 streams, while recording/downloading.
-- **Stream Countdown**: Set a countdown timer for streams to automatically record the stream once it started
+- **Wait For Stream start**: Automatically set countdown timer to automatically record the stream once it started
 
 ## Usages
 - **Download and Run**: Download the [Latest Release](https://github.com/ShimamuX/EasyExtractSenchou/releases), extract it, and run it. simple.
