@@ -6,7 +6,7 @@
 ---
 
 ## Features
-- **Download Videos**: Easily download videos from various platforms supported by `yt-dlp`.
+- **Download Videos**: Easily download videos or record stream from youtube using `yt-dlp`.
 - **Cookies Support**: Download Hidden, Shared Private Video by using your account cookies.
 - **Record Streams**: Record live streams with precision and minimal effort.
 - **Extract m3u8 Streams**: Quickly extract and process m3u8 streams, while recording/downloading.
